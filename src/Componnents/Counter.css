@@ -1,0 +1,11 @@
+.counter-mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.profile{
+    display: column;
+    margin: auto;
+    text-align: center;
+}
